@@ -42,7 +42,30 @@ I recommed to try food / drinks items which are listed below
 > “The key to being a good manager is keeping the people who hate me away from those who are still undecided.” -" Casey Stengel"<Br>
 > “People who enjoy meetings should not be in charge of anything.” -"Thomas Sowell"
 
+---
 
+### Code 
+
+> The convex hull trick is a technique (perhaps best classified as a data structure) used to determine efficiently, after preprocessing, which member of a set of linear functions in one variable attains an extremal value for a given value of the independent variable.
+
+[To know about convex hull](https://wcipeg.com/wiki/Convex_hull_trick)
+
+```
+typedef int ftype;
+typedef complex<ftype> point;
+#define x real
+#define y imag
+
+ftype dot(point a, point b) {
+    return (conj(a) * b).x();
+}
+
+ftype cross(point a, point b) {
+    return (conj(a) * b).y();
+}
+
+```
+[Code Source](https://cp-algorithms.com/geometry/convex_hull_trick.html)
 
 
 
