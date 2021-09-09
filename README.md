@@ -36,6 +36,14 @@ I recommed to try food / drinks items which are listed below
 | Mutton chop | Keens Steakhouse | 40$ |
 | Vodka | Balthazar | 30$ |
 
+---
+
+### Plithy Quotes 
+> “The key to being a good manager is keeping the people who hate me away from those who are still undecided.” -" Casey Stengel"<Br>
+> “People who enjoy meetings should not be in charge of anything.” -"Thomas Sowell"
+
+
+
 
 
 
