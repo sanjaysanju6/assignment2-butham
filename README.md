@@ -6,8 +6,8 @@ For first-time visitors, walking the streets can be like walking through a movie
 ***
 ### Directions to favorite place
 1. Drive car from Missouri to Kansas City International Airport.
-  1. Book a cab from missouri to Kansas city.
-  2. Book a Flight ticket kansas to New York
+   1. Book a cab from missouri to Kansas city.
+   2. Book a Flight ticket kansas to New York
 2. Took a flight to New York city from Kansas City.
 
 ### List of Items
