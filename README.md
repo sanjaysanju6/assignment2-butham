@@ -44,7 +44,7 @@ I recommed to try food / drinks items which are listed below
 
 ---
 
-### Code 
+### Code Fencing
 
 > The convex hull trick is a technique (perhaps best classified as a data structure) used to determine efficiently, after preprocessing, which member of a set of linear functions in one variable attains an extremal value for a given value of the independent variable.
 
@@ -65,7 +65,7 @@ ftype cross(point a, point b) {
 }
 
 ```
-[Code Source](https://cp-algorithms.com/geometry/convex_hull_trick.html)
+[Code Source](https://cp-algorithms.com/geometry/convex_hull_trick.htmls)
 
 
 
