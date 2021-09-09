@@ -6,4 +6,4 @@ For first-time visitors, walking the streets can be like walking through a movie
 ***
 ### Directions to favorite place
 1.Drive car from Missouri to Kansas City International Airport
-2.Took a flight to New York city from Kansas City.
+2.Took a flight to New York city from Kansas City
