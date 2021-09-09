@@ -23,6 +23,18 @@ For first-time visitors, walking the streets can be like walking through a movie
 
 **[About Me](AboutMe.md)**
 
+---
+
+### Food Items to try in New York
+
+I recommed to try food / drinks items which are listed below
+
+| Food/Drink Items | Location | Price |
+| --- | --- | --- |
+| Fried chicken | Sylvia's | 20$ |
+| Al pastor tacos | Taco Mix | 15$ |
+| Mutton chop | Keens Steakhouse | 40$ |
+| Vodka | Balthazar | 30$ |
 
 
 
